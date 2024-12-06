@@ -2,3 +2,4 @@ kind: wasmer.io/App.v0
 name: wasmer-docs
 owner: wasmer
 package: .
+ 
